@@ -27,6 +27,7 @@ status-website:
       href: https://ramonheras.com
     - title: Code Server
       href: https://code.ramonheras.com
+  theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
