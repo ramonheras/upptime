@@ -41,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/google.com",
     "slug": "test-notification",
     "status": "up",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 203,
     "timeDay": 203,
     "timeWeek": 203,
     "timeMonth": 203,
     "timeYear": 203,
-    "dailyMinutesDown": {
-      "2022-02-08": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
