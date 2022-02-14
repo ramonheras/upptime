@@ -4,7 +4,7 @@
     "url": "https://code.ramonheras.com",
     "icon": "https://favicons.githubusercontent.com/code.ramonheras.com",
     "slug": "code-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 992,
     "timeMonth": 992,
     "timeYear": 992,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-14": 0
+    }
   },
   {
     "name": "Blog",
