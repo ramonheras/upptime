@@ -4,19 +4,19 @@
     "url": "https://code.ramonheras.com",
     "icon": "https://favicons.githubusercontent.com/code.ramonheras.com",
     "slug": "code-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 992,
-    "timeDay": 1031,
-    "timeWeek": 992,
-    "timeMonth": 992,
-    "timeYear": 992,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 999,
+    "timeDay": 1053,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
     "dailyMinutesDown": {
-      "2022-02-14": 0
+      "2022-02-14": 17
     }
   },
   {
