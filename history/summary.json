@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.ramonheras.com.ico",
     "slug": "code-server",
     "status": "down",
-    "uptime": "43.51%",
+    "uptime": "43.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "17.20%",
-    "time": 1477,
+    "time": 1479,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1902,
     "dailyMinutesDown": {
-      "2023-09-21": 234,
+      "2023-09-22": 63,
+      "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
@@ -329,8 +330,7 @@
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
-      "2022-09-23": 1440,
-      "2022-09-22": 1440
+      "2022-09-23": 1440
     }
   },
   {
@@ -345,10 +345,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 489,
-    "timeDay": 222,
-    "timeWeek": 303,
-    "timeMonth": 307,
-    "timeYear": 518,
+    "timeDay": 374,
+    "timeWeek": 314,
+    "timeMonth": 302,
+    "timeYear": 520,
     "dailyMinutesDown": {
       "2023-09-13": 21,
       "2023-08-17": 54,
@@ -365,17 +365,15 @@
     "slug": "test-notification",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 498,
-    "timeWeek": 261,
-    "timeMonth": 195,
+    "timeDay": 312,
+    "timeWeek": 272,
+    "timeMonth": 194,
     "timeYear": 177,
-    "dailyMinutesDown": {
-      "2023-09-21": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
