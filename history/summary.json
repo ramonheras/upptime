@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 2137,
     "dailyMinutesDown": {
-      "2024-02-29": 1169,
+      "2024-02-29": 1177,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
@@ -406,19 +406,19 @@
     "url": "https://google.com",
     "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
     "slug": "test-notification",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 322,
-    "timeWeek": 179,
-    "timeMonth": 142,
+    "timeDay": 277,
+    "timeWeek": 180,
+    "timeMonth": 143,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 9
     }
   }
 ]
