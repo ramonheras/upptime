@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.ramonheras.com.ico",
     "slug": "code-server",
     "status": "down",
-    "uptime": "25.04%",
+    "uptime": "25.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-29": 97,
+      "2024-11-30": 87,
+      "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
@@ -379,8 +380,7 @@
       "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
-      "2023-12-02": 1440,
-      "2023-12-01": 1440
+      "2023-12-02": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 409,
-    "timeDay": 173,
-    "timeWeek": 219,
-    "timeMonth": 291,
+    "timeDay": 222,
+    "timeWeek": 223,
+    "timeMonth": 283,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2024-06-26": 19,
@@ -421,9 +421,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 167,
-    "timeDay": 152,
-    "timeWeek": 154,
-    "timeMonth": 165,
+    "timeDay": 111,
+    "timeWeek": 140,
+    "timeMonth": 154,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2024-05-01": 39
