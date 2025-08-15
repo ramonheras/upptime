@@ -29,6 +29,8 @@ status-website:
       href: https://ramonheras.com
     - title: Code Server
       href: https://code.ramonheras.com
+    - title: Brico AI - 17labs.ai
+      href: https://bricoai.17labs.ai
   theme: dark
 
 # Upptime also supports notifications, assigning issues, and more
