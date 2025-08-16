@@ -9,7 +9,7 @@ sites:
     url: https://ramonheras.com
   - name: Test Notification 
     url: https://google.com
-  - title: Brico AI - 17labs.ai
+  - name: Brico AI - 17labs.ai
     url: https://bricoai.17labs.ai
 
 status-website:
