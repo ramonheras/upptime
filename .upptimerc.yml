@@ -3,15 +3,14 @@ owner: ramonheras # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - title: Brico AI - 17labs.ai
-    href: https://bricoai.17labs.ai
   - name: Code Server
     url: https://code.ramonheras.com
   - name: Blog
     url: https://ramonheras.com
   - name: Test Notification 
     url: https://google.com
-
+  - title: Brico AI - 17labs.ai
+    url: https://bricoai.17labs.ai
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
