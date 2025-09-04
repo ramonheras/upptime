@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.ramonheras.com.ico",
     "slug": "code-server",
     "status": "up",
-    "uptime": "26.80%",
+    "uptime": "26.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "25.43%",
+    "uptimeYear": "25.53%",
     "time": 1388,
     "timeDay": 741,
     "timeWeek": 1223,
@@ -342,17 +342,19 @@
     "url": "https://bricoai.17labs.ai",
     "icon": "https://icons.duckduckgo.com/ip3/bricoai.17labs.ai.ico",
     "slug": "brico-ai-17labs-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 822,
-    "timeDay": 558,
-    "timeWeek": 1263,
-    "timeMonth": 822,
-    "timeYear": 822,
-    "dailyMinutesDown": {}
+    "time": 788,
+    "timeDay": 324,
+    "timeWeek": 1117,
+    "timeMonth": 788,
+    "timeYear": 788,
+    "dailyMinutesDown": {
+      "2025-09-04": 0
+    }
   }
 ]
